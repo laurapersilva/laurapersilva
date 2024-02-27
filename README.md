@@ -14,7 +14,7 @@ Olá! Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada por esse m
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
 - **Banco de Dados:** 
 - **Metodologias:** 
-- **Ferramentas:** VS Code
+- **Ferramentas:** VS Code, Repl.it
 
 
 ## Projetos Destacados
