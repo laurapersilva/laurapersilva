@@ -29,7 +29,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Laura</code>, tenho 18 anos, moro em BH e sou programadora iniciante no bacharelado em Ciências da Computaço na PUC Minas. Sou muito empolgada com o mundo da tecnologia e estou sempre buscando aprender coisas novas! Sinta-se a vontade para explorar meu github e meus projetos./>
+<i><b>Olá</b> :wave:, sou o <code>Laura</code>, tenho 18 anos, moro em BH e sou programadora iniciante no bacharelado em Ciências da Computaço na PUC Minas. Sou muito empolgada com o mundo da tecnologia e estou sempre buscando aprender coisas novas! Sinta-se a vontade para explorar meu github e meus projetos.
 </div>
 
 -----
