@@ -10,30 +10,13 @@ Olá! Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada por esse m
 
 ## Habilidades
 
-- **Linguagens de Programação:** C
+- **Linguagens de Programação:** C, C++, Java
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
-- **Banco de Dados:** 
-- **Metodologias:** 
-- **Ferramentas:** VS Code, Repl.it
-
-
-## Projetos Destacados
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
+- **Ferramentas:** VS Code, CodeBlocks
 
 ## Contato
 
 - **E-mail:** lapersilva@gmail.com
-- **LinkedIn:** [Seu Perfil no LinkedIn]
+- **LinkedIn:** https://www.linkedin.com/in/laura-persilva-3291ba1b2/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
