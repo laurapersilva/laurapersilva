@@ -45,4 +45,3 @@
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
 - **Ferramentas:** VS Code, CodeBlocks
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
