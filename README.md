@@ -14,9 +14,4 @@ Olá! Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada por esse m
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
 - **Ferramentas:** VS Code, CodeBlocks
 
-## Contato
-
-- **E-mail:** lapersilva@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/laura-persilva-3291ba1b2/
-
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
