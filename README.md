@@ -43,9 +43,9 @@
 - 🌱 **Atividades Atuais**: Foco em estudar muito e aprender cada vez mais sobre o mundo da tecnologia e do desenvolvimento.
 - 💼 **Experiência Profissional**: 
 
-## Habilidades
+## Habilidades/Skills
 
-- **Linguagens de Programação:** C, C++, Java
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
-- **Ferramentas:** VS Code, CodeBlocks
+- **Linguagens de Programação / Programming languages:** C, C++, Java
+- **Desenvolvimento Web / Web Development :** HTML, CSS, JavaScript
+- **Ferramentas / Tools:** VS Code, CodeBlocks
 
